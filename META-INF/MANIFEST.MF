@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Easirius
+Bundle-SymbolicName: com.crossecore.generator.easirius;singleton:=true
+Bundle-Version: 0.0.1
+Bundle-ClassPath: .
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: com.crossecore.generator.easirius
+Export-Package: com.crossecore,
+ com.crossecore.typescript
